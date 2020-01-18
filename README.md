@@ -4,5 +4,6 @@
 ![title](./qrcode.jpg)
 
 - PandasTest.ipynb 是Pandas代码记录
-- crossinCode100.ipynb 是crossin编程教室的刷题小组任务
+- \crossin\crossinCode01-53.ipynb 是crossin编程教室的刷题小组任务
+- \crossin\crossinCode54-100.ipynb 是crossin编程教室的刷题小组任务
 - pynumTest.ipynb 是PyNum代码记录
